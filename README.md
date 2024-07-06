@@ -10,3 +10,5 @@
 
 <p><b>-HTML</b><p/>
 <p><b>-CSS</b></p>
+
+<img src="https://github.com/RubianoMenezes/Projeto-CSS-HTML/blob/main/projeto/img/We-care-img.jpeg"/>
